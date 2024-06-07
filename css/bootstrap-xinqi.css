@@ -11,7 +11,7 @@ body{
     line-height: 40px;
     margin-right: 20px;
 }
-/*µ¼º½*/
+/*ï¿½ï¿½ï¿½ï¿½*/
 .navbar{margin-bottom: 0;border-bottom: 1px solid #e6e6e6;}
 .navbar-default{
     background-color: #fff;
@@ -152,7 +152,7 @@ body{
 
 /*contact*/
 #contact{
-    background: url("../images/contact-bg.jpg") no-repeat;
+    background: url("../images/map2.png") no-repeat;
     background-size: cover;
     color: #ffffff;
 }
