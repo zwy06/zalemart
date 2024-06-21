@@ -111,8 +111,8 @@ body{
     margin-bottom: 20px;
 }
 .course {
-    background: #ffffff;
-    border: 1px solid #eee;
+    /* background: #ffffff; */
+    /* border: 1px solid #eee; */
 }
 #course .btn{
     background: transparent;
